@@ -1,0 +1,5 @@
+ip = "172.16.35.136"
+port = "3000"
+filename = "autoid_log.csv"
+header = "time, autoid, autoid_camera, result_id, packages, trigger, encoder, meters, speed, code_lost, code_not_consec, buffer_overflow, result_overrun, result_missing, bit5, virtual_trigger, bit7"
+format = "int int int int int int real real"
